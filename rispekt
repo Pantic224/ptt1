@@ -1,0 +1,7 @@
+#include(studio.h)
+
+int main()
+{
+printf("Dobro dosli");
+retrun 0';
+}
